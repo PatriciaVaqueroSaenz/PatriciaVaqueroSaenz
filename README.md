@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-📍 I just finished @Adalab Bootcamp and learned:
+📍 I just finished [@Adalab](https://github.com/Adalab) Bootcamp and learned:
 
 + HTML5, CSS3, Sass, Bootstrap;
 + JavaScript (with ReactJS) and third-party web services (APIs);
