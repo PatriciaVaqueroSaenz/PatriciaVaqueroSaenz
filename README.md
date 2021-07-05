@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+📍 I just finished @Adalab Bootcamp and learned:
+
+HTML5, CSS3, Sass, Bootstrap;
+JavaScript (with ReactJS) and third-party web services (APIs);
+Version control with Git;
+Creation of SPAs with React;
+Node JS and Express.
 <!--
 **PatriciaVaqueroSaenz/PatriciaVaqueroSaenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
